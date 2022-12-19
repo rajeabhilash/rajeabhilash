@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something Great.!
 - 🌱 I’m currently learning How to be an Entrepreneur.
-- 👯 I’m looking to collaborate on My **Aahar** Project.
+- 👯 I’m looking to collaborate on My **Sutra** Project.
 - 💬 Ask me about All Computer Programming Lanuages and Spiritual Programming as Well.!
 - 📫 How to reach me: [rajeabhilash.com]
 
