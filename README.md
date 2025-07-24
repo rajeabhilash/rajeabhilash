@@ -1,18 +1,291 @@
-### Hi there 👋
+# 👋 Hey there! I'm Raje Abhilash
 
-- 🔭 I’m currently working on something Great.!
-- 🌱 I’m currently learning How to be an Entrepreneur.
-- 👯 I’m looking to collaborate on My **Sutra** Project.
-- 💬 Ask me about All Computer Programming Lanuages and Spiritual Programming as Well.!
-- 📫 How to reach me: [rajeabhilash.com]
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Code+Artisan" alt="Typing SVG" />
+</div>
 
-[![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAYCAYAAAAVibZIAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAEHAAABBwEflNFYAAAAB3RJTUUH5QEVEDotrKqP8AAAA9VJREFUOMuVlVtMXFUUhr99ZhjKcBvulwnhUkODFSQp0VYsmrRpjD7UF9GakEYDalptE1ORGiVEoiaYNGopidA0PjT6UHsx0VYNYoVAtYrCYIvU0sGhIDAwwDA3Zs7M9oF0Ogc70O63s9ba31577f+sJVhn1XYMlQgZagFRBbJbCqX+eF3p8Fp7RDTHvmNXElS9ekgKcRgwRLhUKWSbEgo0tr9csXh3UClF7XFLjZCiBciKdqgUzAkpmxdMI62nqquDUaG1HZYtwFEh2cbdr99BvNbxUmmfBrq/dThtOdbfKKR4FVBW79IpgjiDDrdPRUZJHOTJmIC+vm3/5ilR22F5Uki+AJIioxRFUFmcwqObUijINCIANSj5Z9ZL97CDX0YXCIX+d4QTeE7UtQ+OgciP9CQb9ezblU9hhjHqnUf+ddPxgw2nVw3bPIFA//eD17yirt2iOS42RqFh90bMKRvWLeaEw8cHX42yHAhO/jY2YR0Ym6wE0K8OfLoiSwNUQ5I/rItMzi+TmWSgoiiZGP1K2dMTDWQkYWk+218cDIVyb+3RQOMMOh4rSQt/u3wqR85buTnnC9u+tdg59FQR16fdjpq2Lv+Vm46y1YlpoCW58eh1t1V2+vKUBghgm/Nc2950wT84PvOAIgSFGYlY7UsY9ArZJiO2WZcWmp5k0ACGxpciNbNwdWLKculvW6WU6ACer9zI4d0PUtN2kcdLcqjeWsSLn3ZrofLOv1vIsei8dL671+wVeohPlus9oAY66/RrnOX5ieOvHz3nnXHMV65YlgvweG+kmrOcDr8o/7x3lN6Raaz2Jf4cn+fLy2PYZl3av2d40kUgeDuRJ8rS8nJMhuLImM0FaUXDH+0p//pglSMvJXbKal8pkV8NYZt1rdxwlU79zz6cbt9RlmMOG9QgZ3r+4qrNzn25qTxTdT9xsSsXdPv87D1ywXJ6yF6MEGEdhqFuj/fXb37qzQ6q/ry+j1+gtDBzXfEP3phm24ETeJfVSeKTrBgTKgHE3mP9Pb39FsN12/hDt4KzUxM421TN1hJzVGDXwBh73jvDzII74mWVAUypbt2gzzzlcDpfAWLDovf6+ey7AWx2JxnJRszpiQgh8PlVfh6e4K0TP/JmRycur391szLicR9cUc2O99NQ1EYkd2x9ep2CKWEDc04PUkZrfeIkarCei01T2s6/690tSPkJUjxyD026n5BygK63+9aYUVKws7kGWHOcAHMI0YxpUyun1hgn2qw/jCfkeQNEQ2S9ARVBG9LQSGfD4j1N0/Da2VwCsgXYDvSAqKfznTVH9H+akJBFbCvsXgAAAABJRU5ErkJggg==)](https://isocpp.org/)
-[![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAKaAAACmgFJLYRWAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAArhJREFUSImdk89rE1EQx78zmzaprUmbH03wB4gFsckmm/64FKqCeFX8gelBPHhpT4LVHjx48B+wejUK1YIIPRV6kB6EFvFm8VAiYtFbwbRKY4U2abo7HpImm2Szmzqw8N7Me9/PzLxZQot2fllOkgsPSTAGIC/Ak+VReup0j1oSZkwxYRyAxxwT4NnSKE3+F8BO+DCQBkCrwq1CagG3Xpzo06Kvsl/WzgLEIGImIoAUYiIQEYEYDCKDFDARIMztLvEE/O/WH1+8UQ9wmTe8T1PeuJbIFYzsVuarSs5PVK5AgM2t65xKTxtz4/fNMaWyuvY6QC59NqLFdc+x46dgGN93Nzb9AEBk/VXbUN4QjVD0sk8yC4uVpCsLd+EBgC6BMBEQGkz2BTQ1SzZFWEKYJjmVnq6t4OZzHyn8BoAnoql5nbgDALoi4S4A2zvZDXdJkEB1xKaVxK50S2Zh0VV23IWgu9xRKh0uWVCLeyGy+3s101EVLUVFpAIpL820ezz20lBwe7aTRX8LoBMAIppa0Ik95jyPRMJtpPD+zs8s4zAm+ghjLz8BIFTDtrCAGnP1DiYNc7C+XVbGBLpTAzWkaZb+WD+HhpL1zbAHAAjXeGyGXwD0RPspOKjpQPUNbAEEmanx2FRwYIFYVAkNJAqO6gDY8MkjEZmvZllqrFNufjXmDmqJbcBigkw+RnqiKD5JHUBEpNIiJ0hQU73+hJqtnm+8UWpHGUJE81LYM8wZ2UEEQCiZCAfi0R9mcfP9ar/TE0X9qJ7azeVW6w9Jk69SyUDydE//mc9WSTRMTGxO2uHNzyiCC6xQLwFtNkUcJKIbIr/WP3xczX1bqyRNEOs/ZeiTtPkKmBPBVTtxC9j7pXN0yeyzHMmVYSr+cSMlhHmreIMwmr9V05lfGabiXweInbAjoB5i98h29g+dUABUDBEaEwAAAABJRU5ErkJggg==)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAYCAYAAAAYl8YPAAAACXBIWXMAAAAkAAAAJAGHsLAiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAoNJREFUOI2NlU9IVFEUxr9z79NZmAUubFG0ChPLeQMFQS4i0laFC7N/REGZlRWEKZKVTC3SCFMjMhNy1FaOg9XSN2a0aiHRDJgjUhSBBpZaU1A4c08LR3059zlzdu98h9/53ne57xHSrPJRzpyNcYDA+zUyM3DBSBc0F2O/EwiES0G3bJepQNtHOEMQ+wEu1ekE1FmmbAWAVZ2V97Gcy1A9DGhBzLhqeeTdxWexKmiL6gVwxGHkWtAjm+wNLay8j+VsnuoGcFSLYTRYpry9sp2UmZdZTMSVjwjHdRwCbloeeUun/Q9jJiOkHhHhlNYR0GyZst5BA9lBJWH1EMA53SAzWoIeWe0EAhYzY6bisHrgBALQlgq04IyZSkLqPggXHax3DrrFWRBxKphRElYtTiAQOgYLxXkQccJ9PcB79CjZbjDwiXQao6vILaqshKPisKoBcMIe89JOwhPLTQERNGUrGFdW6N1FpqjwEikAKA7FawFU6HfCZ7nlHSBxAJZH3mOgNrHHPz+zDCrwvbf+Rn/fACvNC6ieIVM2Lqdiq32h2MF143LAf4jiAFDYE3mWvTG3FABkphF1ZWdN2Sz1BU3RYD8YbVwAsK030r92Q26ZvSddxk/XmqyvBBWwBozr8C64XxWW7xurzNm0vkOn/Zicfjf6PG8H/Avu7aW96JGT+Z2/pr4Pr+xPj3/G2MBrj1CdHQAnGdF/gog4fGzz3ujkt1eLrZkPX/Dx5QgABoDToiwZ6JgZAICZCp9Ghuf/xHZPDL4Bq6RL0KYClZfTgyWAxuGuRhWP1TlMtKhAZXV6sESJssdNAPRAombVf6Ym5Q9lyeDYiyHa+jYHwE6NvIsKDoh/P0T0VGjgES8AAAAASUVORK5CYII=)](https://flutter.dev/)
-[![Qt](https://img.shields.io/badge/-Qt-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAYCAYAAAB0kZQKAAAACXBIWXMAAADIAAAAyAEU/dc7AAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA1BJREFUSInFlUtsVFUYx3/nPuZOL51HLaMg6ZSZzjTWhBqnIvgkkJqYsCAxdkfYuGChJrrwESOJEkjcaMIKw8ZGNhqpCRISE7BENMZUDAvAPmhLGym1ZejDzsztzJ1zr4u2Q0vnTmnl8V+dnP859/vl+77zXcEivdy1p05V1U4gwQOUuAPgHNDwIAEAVIDWC21RFB4KAIBovdAWlUKeA+IPAwBAk0KeB+q9DggEL4W38VxoKxuMCH7Fz4Q9ydDs35xOn+VG/p//DSF2/vma62X6FJ3DDR/REmgu69uuzaeDn/Pb9B9L9n9KnUAg+LD/EF3/XlwRQqtk7t3wOi2BZhzX4cT4KX6d7sJ2iiTMGPs2thHRazkQe5e9V97klj25YjAvKV6GofjYE3kVgG/HTvLlyNdczvTQm+vndPoM7189iOM6GIrB7vWtawaoCJE04wTUagBOpn9c5g/PXudSthuApwNbAHi77g06Ux2I+Zf/WeJjOlMddKY62OyvWz1EoioGwKQ9xXghXfbMX9k+AJ4w52Zb3ikwIzMlPyctZmSGGZmh4NqeEJ49EdZCAKTtCc/LNwu3ADAUA0MxODZynGMjx2835sAhLmd6PO8vyDMTfsUHgIPn46HoFktrU61aMdiqIRbSVzOfkXLSxO1E5p38vYfIyOwchB4qNdqdCmpzjStdyez9gBiwhgHQhU7C3Fz2TMwfBWDQGsZxnWW+F/xdQ3Rn+0o1f+WRHcv8iF7L9lALAFeyvUs8S84CUK2uuysINba/6ZNyhu0WedQXodGM07SukYheC0BYD7I91MIH9W8R0oIU3SKHh46Uygewo+Z5avUaov5NBLUAqUAzV61B7EWNvFgVx/bRkXai/k1sqW5i9/rWZZOx6EoOXvuC0fzYkv2zEz+TNGMkzThJM17ay0lr9RA5afFO3wFeCD/L1uBTPG5sxCd0/IpB0oyjILhZZpB9N36KAWuIRrMBTWiMFsaYsKc841T8i3rJUAzanzzCY74Ig9Yw+3veQ7pytZ+Zl9vr2ZiVlHfyHL3eDkC8qp4Xw9vWDKAJuatiOSrp/NTvfDX6DV3TF+nN9a8Z4EzqhxtrKsc9UE/RZdcvz3w/ChXmxP2SgG5XqjsXAAD+A9nwJvQ0KhDlAAAAAElFTkSuQmCC)](https://www.qt.io/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAM1BMVEUAAAAAAAAYBAcrBxBIBhkVHhBZCyJvCyqCCi8gMxOYFTmyEULGFUouThtFgTNanzxqvUhFU6XcAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflARUQLxddE7BWAAAA4ElEQVQoz2WQUZLEIAhEZSSKgJr7n3ZAJsba5UMpnnSDKVlA6715klrrDdITfd4Ws7/JA+4VE2YkGzSvWhHiutvWGv5uDBiR7Hq65lKCpTWvFyQYc1xY8PI7HSSTEKkq253PBlHJYkDtlHePhMoZkZhrRdZyAEJ7T+BqlcrhAK4jcWbG16G4vi6gdbtkDcDAAfQT4BMigsUn8/zXAUwAtZL7Y4FC/AwMthbkZYPWRHsR16bwr+Jee143xd9IBo4Fl7yIFPYhjs9CFnetuQqfdbOB+EQESH9ibcf/ykuvnCpf5R0NVx2BmAIAAAAASUVORK5CYII=)](https://www.raspberrypi.org/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-555?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAADs0lEQVRIx5WWX2hbdRTHP/fml2T5Z1ZrvaiNZm7Wtls7NxEfRMecExxtJxKoPpSuLfowK6IgMv8gw0md1O1F2WRlHatCpXlwjcJw1KovgkOs65h1qxDr1jVDadL8adrc5OdDbjV/blp34D7c8zv3nHO/53vO+SmsIpGAvwYIALuABuAu4+gaMAV8A4xowfCNSj6UCo5vBw4C3YCN1SUDDALvaMHw3JoBIgH/HmAIuJWbk3mgUwuGQ4VKtcR5NxD6v85Fcxuq/5GV1yrgTCTgf8H0D4zMQ6VBK4mj4308be1IXWf+yFvo5z9fOZLA01owPAogCjAfquRc3bgD+6MtiDt8edCnf8V6b10+QyGw1jUXBlCAU5GAv1ELhueEoTxoBovi8SG27MC1twPbxrp/9eu2PsjC8ACW6hpyyQTps6dLP60C3gWeVwwqXi1li+Lxsf7QZ1i8VcQGPsTb8yqZ2T9BSqy196AIQfrSBcjqJI6/iYyFS4PoQK0weF5GRfeLh7He6QMpURwu/upqLqiuE2dXH+7draAo0HuY+HvtZRwAnlWNJirD3LH9YQASY1+xfO7jktxSpE68TOLr0XzBtz6EpW6XWfl2qkaHAmDf8wqu3k8Q9z2AzOXIpZKkTh6oyKTU4AFyyTgoCvbHWs1M6sVK+4umFrz7XgJFYfnuDSxfmQJVhUyiMleziyTHzyJ8G8jF5s0satWillCU4vaQcu2GkPK/x6wZjcHl1SdDxE7fj3VTI5mpX7ilsxeZToNwgp4yd26x49r5FKrbQ/bGdTOLa6oxFQFYCvWTONqNfuUCimpBdblxdvdVTN65rw/V7QEpWfr+SzOTKdUYucXQTo+zOPFjnq5PtGLbvb8sc2fPEdxP7gUgPfkT2d/OmQUYF8AIcBSwFp4kPnodcehTLN4q5GKS205OkLk6A4DV50ex2Uhf/Bmp6ySOvWHmXAeGVWNZDJbVbuEPom93EDvRj6vlOVSPF3tDE/aGJhSHg4WRQSzVNXmIVGEWYEgLhucsAK81rj8P9ACOIpOlKLmZCTIz18npkmw8jh6ZZfGHb7Fv3o59Uz2iuoacbkGfLEI6CgT6L0XjAkALhiORgL8TOGO2hLKXx0hdHisehJ0fsG7LNmRWJzN9sfSTLi0Yni3baMayOF5plZZxfNszyIW/yf7+XaF6vxYMH1ttZbYBp4yRezMSNTL/ouLKNOAaBRqBAYMJa4lukGRzqXPWgiIS8GtAO/A4UA/UllxbxoFhs9vEivwDtbBBq012c3EAAAAASUVORK5CYII=)](https://ubuntu.com/)
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=rajeabhilash&color=blueviolet&style=for-the-badge)](https://github.com/rajeabhilash)
+  [![GitHub followers](https://img.shields.io/github/followers/rajeabhilash?style=for-the-badge&color=blue)](https://github.com/rajeabhilash)
+  [![GitHub stars](https://img.shields.io/github/stars/rajeabhilash?style=for-the-badge&color=yellow)](https://github.com/rajeabhilash)
+  
+</div>
 
-<a href="https://github.com/rajeabhilash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeabhilash&count_private=true&show_icons=true&hide_title=true&bg_color=555&text_color=fff&icon_color=fff&title_color=fff&hide_border=true" />
-</a>
+---
+
+## 🚀 About Me
+
+```javascript
+const rajeAbhilash = {
+    pronouns: "He/Him",
+    location: "🌍 India",
+    currentlyWorking: "Building amazing applications",
+    currentlyLearning: ["LLM & MLOps", "Distributed Data [Blockchain]", "Cloud Architecture"],
+    askMeAbout: ["Anything Python","Cross Platform Development", "ML Models & Ops", "Product Design", "Open Source"],
+    funFact: "I debug code in my dreams! 🐛💭"
+};
+```
+
+<div align="center">
+  
+  🔭 I'm currently working on **exciting projects**  
+  🌱 I'm currently learning **new technologies**  
+  👯 I'm looking to collaborate on **open source projects**  
+  💬 Ask me about **anything tech-related**  
+  📫 How to reach me: **Let's connect below!**  
+  ⚡ Fun fact: **Coffee + Code = Perfect Combination** ☕💻
+  
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajeabhilash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeabhilash&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeabhilash&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeabhilash&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeabhilash&repo=PROJECT_NAME_1&theme=tokyonight)](https://github.com/rajeabhilash/PROJECT_NAME_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rajeabhilash&repo=PROJECT_NAME_2&theme=tokyonight)](https://github.com/rajeabhilash/PROJECT_NAME_2)
+
+</div>
+
+### 🌟 Recent Work
+<!-- PROJECTS:START -->
+- 🔥 **[Project 1]** - Brief description of your awesome project
+- 🚀 **[Project 2]** - Another cool project you're working on
+- 💡 **[Project 3]** - Innovative solution you've built
+<!-- PROJECTS:END -->
+
+---
+
+## 🏅 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajeabhilash&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeabhilash&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### 📱 Social Media & Professional Networks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeabhilash)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rajeabhilash)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajeabhilash)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rajeabhilash)
+
+### 💼 Professional Platforms
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeabhilash)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rajeabhilash)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rajeabhilash)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/rajeabhilash)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/rajeabhilash)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rajeabhilash)
+
+### 🎥 Content & Community
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rajeabhilash)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/rajeabhilash)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rajeabhilash)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/rajeabhilash)
+
+### 📝 Writing & Blogging
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajeabhilash)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rajeabhilash)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rajeabhilash)
+
+### 💬 Communication
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rajeabhilash)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/rajeabhilash)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/rajeabhilash)
+
+### 🎵 Entertainment & Others
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rajeabhilash)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/rajeabhilash)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@rajeabhilash)
+
+### 📧 Direct Contact
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeabhilash@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeabhilash.dev)
+
+</div>
+
+---
+
+## 💝 Support My Work
+
+<div align="center">
+
+If you like my work and want to support me, consider:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rajeabhilash)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rajeabhilash)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rajeabhilash)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rajeabhilash)
+
+⭐ **Star my repositories** if you find them useful!  
+🍴 **Fork and contribute** to open source projects!  
+📢 **Share my work** with others!
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 Current Goals] --> B[Open Source Contributions]
+    A --> C[Learning New Technologies]
+    A --> D[Building Amazing Projects]
+    A --> E[Community Engagement]
+    
+    B --> F[Contributing to React Ecosystem]
+    C --> G[Exploring AI/ML]
+    D --> H[Full-Stack Applications]
+    E --> I[Tech Blogging]
+```
+
+</div>
+
+---
+
+## 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 12 mins   ████████████░░░░░░░░░   48.2%
+Python       4 hrs 23 mins   ██████░░░░░░░░░░░░░░░   25.8%
+TypeScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   16.2%
+CSS          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░    6.7%
+HTML         32 mins         █░░░░░░░░░░░░░░░░░░░░    3.1%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  
+## 🎨 Profile Art
+
+```
+     ╔═══════════════════════════════════════════════════════════════╗
+     ║                        Raje Abhilash                         ║
+     ║                   Full Stack Developer                       ║
+     ║                                                               ║
+     ║  "Code is like humor. When you have to explain it,           ║
+     ║   it's bad." - Cory House                                    ║
+     ╚═══════════════════════════════════════════════════════════════╝
+```
+
+### ⚡ Quick Stats
+- 🔭 **Years of Coding:** Passionate developer since day one
+- 🌱 **Current Learning:** Always exploring new technologies
+- 💼 **Open for:** Collaborations, opportunities, and interesting projects
+- 🎯 **Goal:** Building impactful software solutions
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/rajeabhilash/rajeabhilash/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+**✨ Thanks for visiting my profile! Have a great day! ✨**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/rajeabhilash">rajeabhilash</a></i>
+</div>
